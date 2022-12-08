@@ -18,8 +18,10 @@ it will be asking you for the path of the file and then just hit enter after ent
 
 so it can be monitored and it will let you know about the file changes happened or not
 
-Enjoy Your FIM
+Enjoy Your FIM(File Integrity Manager)
 
 #####################
-HackWeed
+      
+      HackWeed
+
 #####################
