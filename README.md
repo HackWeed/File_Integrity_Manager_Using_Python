@@ -12,7 +12,7 @@ as soon as any of the file gets any changes according to calculation made using 
 
 <FILE_NAME> HAS BEEN REMOVED
 
-i am attaching a zip file when you will extract it you will get a file name as FIM.py which is the main file so ou can just open it in your suitable IDE or environment and run it normally as a python file
+when you will run the file you will get a file name as FIM.py which is the main file so ou can just open it in your suitable IDE or environment and run it normally as a python file
 
 it will be asking you for the path of the file and then just hit enter after entring the path and it will be capturing the baseline or hashes and then start monitoring the file
 
